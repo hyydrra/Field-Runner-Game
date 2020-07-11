@@ -15,3 +15,5 @@ input example: <br/>
 <br/>
 <br/>
 ![alt text](start_page.png)
+<br/>
+![alt text](game_play.png)
